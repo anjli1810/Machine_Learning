@@ -6,3 +6,5 @@ Heart Disese prediction -> Logistics Regression
 Breast Cancer Prediction -> Logistic Regression
 
 Titanic Survival Prediction -> Logistic Regression
+
+Spam Mail Prediction -> Logistic Regression
